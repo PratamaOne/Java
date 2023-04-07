@@ -3,7 +3,7 @@ package JavaLambda;
 import java.util.function.Function;
 
 // Function -> used to accept a parameter and will return a result
-public class JavaUFFunctions {
+public class JavaUtilFunctions {
     public static void main(String[] args) {
         // Anonymous class
         String name = "Kukuh Nur Pratama";
