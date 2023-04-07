@@ -3,7 +3,7 @@ package JavaLambda;
 import java.util.function.Predicate;
 
 // Predicate -> used to receive parameters and return boolean values with primitive data types
-public class JavaUFPredicate {
+public class JavaUtilPredicate {
     public static void main(String[] args) {
         // Anonymous class
         Predicate<String> checkBlank = new Predicate<>() {
