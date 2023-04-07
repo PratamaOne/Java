@@ -3,7 +3,7 @@ package JavaLambda;
 import java.util.function.Consumer;
 
 // Consumer -> only used to accept a parameter and does not return anything or void
-public class JavaUFConsumer {
+public class JavaUtilConsumer {
     public static void main(String[] args) {
         // Interface java.util.fucntion
         // With Lambda 1
